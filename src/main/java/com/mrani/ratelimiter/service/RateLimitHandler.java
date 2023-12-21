@@ -1,4 +1,4 @@
-package com.mrani.ratelimiter.service.utility;
+package com.mrani.ratelimiter.service;
 
 import com.mrani.ratelimiter.exceptions.WorkFlowPreemptionException;
 import lombok.extern.slf4j.Slf4j;
